@@ -18,15 +18,24 @@ background-position: 70px 0px;
 
 }
 
-.author-name {
-    color: #3B9AE1;
+h1 {
+font-size: 40px;
 
 }
 
 .author {
     color: grey;
+    margin-top: -33px;
+    font-size: 20px;
+}
+
+.author-name {
+    color: #3B9AE1;
+
 }
 
 .date {
     color: grey;
+    margin-top: -1px;
+    font-size: 15px;
 }
