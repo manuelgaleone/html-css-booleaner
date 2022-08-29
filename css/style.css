@@ -9,16 +9,12 @@ background-position: 70px 0px;
 
 .logo {
     width: 250px;
-
+    margin-top: 45px;
+    margin-bottom: 10px;
 }
 
 .pattern {
-    width: 200px; 
-
-}
-
-#title {
-    position: ;
+    width: 200px;
 
 }
 
