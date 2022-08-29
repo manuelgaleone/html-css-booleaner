@@ -71,4 +71,25 @@ h3 {
 
 .table-center {
     background-color: white;
+
+}
+
+.container {
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+.container-monitor-text {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+
+}
+
+.container-graph-text {
+    position: absolute;
+    top: 220px;
+    left: 16px;
+
 }
