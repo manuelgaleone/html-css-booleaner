@@ -43,3 +43,27 @@ font-size: 40px;
 .credits {
     font-size: 15px;
 }
+
+.underlined-text {
+    background-color: yellow;
+}
+
+.table-header {
+    background-color: #3B9AE1;
+    
+}
+
+.table-header-text {
+    color: white;
+    width: 25%;
+    text-align: left;
+}
+
+.table-row {
+    background-color: lightblue;
+    
+}
+
+.table-center {
+    background-color: white;
+}
