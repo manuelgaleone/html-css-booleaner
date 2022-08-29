@@ -19,38 +19,45 @@ background-position: 70px 0px;
 }
 
 h1 {
-font-size: 40px;
-
+    font-size: 30px;
+    font-family: montserrat;
+    font-weight: 700;
 }
 
 h3 {
     font-size: 20px;
     color: grey;
+    font-family: montserrat;
 }
 
 .author {
     color: grey;
-    margin-top: -33px;
+    margin-top: -25px;
     font-size: 20px;
+    font-family: montserrat;
 }
 
 .author-name {
     color: #3B9AE1;
-
+    font-family: montserrat;
+    
 }
 
 .date {
     color: grey;
     margin-top: -1px;
     font-size: 15px;
+    font-family: montserrat;
 }
 
 .credits {
     font-size: 15px;
+    font-family: montserrat;
 }
 
 .underlined-text {
     background-color: yellow;
+    
 }
 
 .table-header {
@@ -71,25 +78,42 @@ h3 {
 
 .table-center {
     background-color: white;
-
+    
 }
 
 .container {
     position: relative;
     text-align: left;
     color: white;
+    font-family: montserrat;
 }
 
 .container-monitor-text {
     position: absolute;
     top: 8px;
     left: 16px;
-
+    font-family: montserrat;
 }
 
 .container-graph-text {
     position: absolute;
     top: 220px;
     left: 16px;
+    font-family: montserrat;
+}
 
+div {
+    font-family: montserrat;
+}
+
+p {
+    font-family: montserrat;
+}
+
+ul {
+    font-family: montserrat;
+}
+
+table {
+    font-family: montserrat;
 }
